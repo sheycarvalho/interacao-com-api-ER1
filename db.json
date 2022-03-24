@@ -1,0 +1,22 @@
+{
+  "secao-jogos": [
+    {
+      "id": 1,
+      "imagem": "assets/img/images3.png",
+      "titulo": "BUY NOW",
+      "descricao": "GAMES BUY NOW"
+    },
+    {
+      "id": 2,
+      "imagem": "assets/img/images4.png",
+      "titulo": "BUY NOW",
+      "descricao": "GAMES BUY NOW"
+    },
+    {
+      "imagem": "",
+      "titulo": "BUY NOW",
+      "descricao": "GAMES BUY NOW",
+      "id": 3
+    }
+  ]
+}
